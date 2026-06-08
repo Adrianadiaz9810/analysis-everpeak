@@ -2,18 +2,17 @@
 
 Este repositorio contiene el análisis realizado durante el Sprint 7 del caso EverPeak–SilverBasket.
 
-El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. :contentReference[oaicite:2]{index=2}
+El dataset /datasets/plans.csv /datasets/users_latam.csv /datasets/usage.csv incluye 4,000 datos de usuarios con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. 
 
 ## 📂 Contenido del repositorio
 
-- `notebooks/everpeak_analysis.ipynb`
-  → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
+ → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
 
-## ▶ Cómo abrir el notebook en Google Colab
+## ▶ Cómo abrir el notebook en github
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab][(https://github.com/Adrianadiaz9810/analysis-everpeak/blob/main/sprint7-final-project.ipynb)
 
 O:
 
